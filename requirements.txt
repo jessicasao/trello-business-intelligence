@@ -1,0 +1,16 @@
+# Trello API 相關
+requests>=2.28.0
+
+# 資料處理
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Excel 檔案處理
+openpyxl>=3.1.0
+
+# 環境變數管理
+python-dotenv>=1.0.0
+
+# Jupyter 相關（如果你要在 notebook 中使用）
+jupyter>=1.0.0
+ipykernel>=6.0.0
